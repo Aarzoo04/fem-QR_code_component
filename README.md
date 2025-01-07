@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](#https://aarzoo04.github.io/fem-QR_code_component/)
+- Solution URL: [Link](https://aarzoo04.github.io/fem-QR_code_component/)
 
 ---
 
@@ -55,7 +55,7 @@ Working on this challenge, I learned:
 
 ## Author
 
-Frontend mentor - [@Aarzoo04](#https://www.frontendmentor.io/profile/Aarzoo04)
+Frontend mentor - [@Aarzoo04](https://www.frontendmentor.io/profile/Aarzoo04)
 
 ## Acknowledgments
 
