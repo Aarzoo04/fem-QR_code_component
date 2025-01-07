@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ---
@@ -20,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### The Challenge
 
-Your challenge is to build out a QR code component and get it looking as close to the design as possible.
+The challenge is to build out a QR code component and get it looking as close to the design as possible.
 
 Users should be able to:
 
@@ -28,12 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the completed project](./screenshot.jpg)
+![Screenshot of the completed project](./solution.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](#)
-- Live Site URL: [Add your live site URL here](#)
+- Solution URL: [https://aarzoo04.github.io/fem-QR_code_component/](#https://aarzoo04.github.io/fem-QR_code_component/)
 
 ---
 
@@ -56,3 +56,10 @@ Working on this challenge, I learned:
 ## Author
 
 Frontend mentor - [@Aarzoo04](#https://www.frontendmentor.io/profile/Aarzoo04)
+
+## Acknowledgments
+
+Thank you to Frontend Mentor for providing such a great platform to practice coding skills. This challenge was a great way to reinforce foundational CSS and HTML knowledge.
+
+Special thanks to [this YouTube tutorial](https://www.youtube.com/watch?v=5BBYPntB-GY&list=PLcZZlEf3w738Bv45a8yI_iIv2OGx_JLvz&index=11) for guiding me through the project and helping me understand key concepts more effectively.
+
